@@ -1,2 +1,3 @@
 print("hello")
-print(3+4)
+print(3+5+6)
+print("hello git")
